@@ -11,6 +11,7 @@ $mem = new Mem();
 $mem->addServer('127.0.0.1', 11211);
 // print_r ();
 // $mem->s("key","好难得哦",false,18000); // 添加一个key
+// 测试一下
 // $mem->s("key",NULL); // 删除一个key
 // $mem->s("key"); // 获取一个key
 // $mem->increment("key",2); // key值加法
